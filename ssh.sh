@@ -31,7 +31,7 @@ EOF
 cat << EOF > /etc/banner
 <br>
 <font>ೋ˚❁ೃೀ๑۩۞۩๑ೃೀ❁ೋ˚</font><br>
-<font>┊┊┊┊ <b><font color="#ff5079">&nbsp;Rezoth</font>™</b></font><br>
+<font>┊┊┊┊ <b><font color="#ff5079">&nbsp;🇫‌🇮‌🇱‌🇲‌🇸‌🇿‌🇮‌🇱‌🇱‌🇦‌</font>™</b></font><br>
 <font>┊┊┊✧ </font><br>
 <font>┊┊✦ <font color="#A52A2A">&nbsp;NO HACKING !!!</font></font><br>
 <font>┊✧ <font color="#8A2BE2">&nbsp;NO CARDING !!!</font></font><br>
@@ -40,7 +40,7 @@ cat << EOF > /etc/banner
 <font> .  +  · · <font color="#33a6ff"></font></font><br>
 <font>    ✹   . <font color="#008080">&nbsp;Your privacy is our number one priority</font></font><br>
 <font>✦  · </font><br>
-<b>&nbsp;Powered by <font color="#ff5079">Rezoth™</font></b><br>
+<b>&nbsp;Powered by <font color="#ff5079">🇫‌🇮‌🇱‌🇲‌🇸‌🇿‌🇮‌🇱‌🇱‌🇦‌™</font></b><br>
 <font>     .  +  · </font>
 EOF
 
